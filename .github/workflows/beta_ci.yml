@@ -59,4 +59,4 @@ jobs:
         with:
           name: Pilipala-Beta
           path: |
-            build/app/outputs/flutter-apk/Pili-*.apk
+            build/app/outputs/flutter-apk/*.apk
